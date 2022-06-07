@@ -1,0 +1,16 @@
+{
+  "names": {
+    "drake_ros_core": {
+      "dependencies": ["drake"]
+    },
+      "drake_ros_examples": {
+      "dependencies": ["drake"]
+    },
+      "drake_ros_tf2": {
+      "dependencies": ["drake"]
+    },
+      "drake_ros_viz": {
+      "dependencies": ["drake"]
+    }
+  }
+}
