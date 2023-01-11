@@ -1,5 +1,8 @@
 {
   "names": {
+    "drake_ros": {
+      "dependencies": ["drake"]
+    },
     "drake_ros_core": {
       "dependencies": ["drake"]
     },
